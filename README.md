@@ -9,4 +9,5 @@ They have over 20 employees in their factory and we ensure that they maintain pr
 They have a great care for the environment. We use 'Pallets' as their fuel which make negligible air pollution compared to other fuels.
 
 ## Developer
-**Arindam Hazra** Developed their website 
+
+**Arindam Hazra** Developed their website
